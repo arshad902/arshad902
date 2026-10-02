@@ -41,7 +41,7 @@ E-commerce website for products and online orders.
 
 Responsive watch-store website with product sections and modern UI.
 
-### 🍎 Apple Store
+###  Apple Store
 
 Responsive Apple-inspired website project.
 
@@ -57,14 +57,16 @@ Responsive digital clock using JavaScript `Date()` and `setInterval()`.
 
 ## 📈 Currently Learning
 
-```text
-JavaScript
-DOM Manipulation
+
+Advanced JavaScript
+Type script
 Advanced CSS
+React.JS
+Node.JS
 Git & GitHub
 Responsive Web Design
 Modern Web Development
-```
+
 
 ---
 
@@ -90,7 +92,7 @@ Modern Web Development
 
 <div align="center">
 
-<a href="https://github.com/ArshadDeveloper">
+<a href="https://github.com/arshad902">
 <img src="https://img.shields.io/badge/GitHub-ArshadDeveloper-black?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
