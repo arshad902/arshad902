@@ -57,30 +57,12 @@ Responsive digital clock using JavaScript `Date()` and `setInterval()`.
 
 ## 📈 Currently Learning
 
-
-Advanced JavaScript
-Type script
-Advanced CSS
-React.JS
-Node.JS
-Git & GitHub
-Responsive Web Design
-Modern Web Development
-
-
+* Advanced Javascript
+* Advanced CSS
+* React.JS
+* Node.JS
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArshadDeveloper&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadDeveloper&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
 
 ## 🎯 My Goal
 
@@ -93,7 +75,7 @@ Modern Web Development
 <div align="center">
 
 <a href="https://github.com/arshad902">
-<img src="https://img.shields.io/badge/GitHub-ArshadDeveloper-black?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-arshad902-black?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 </div>
